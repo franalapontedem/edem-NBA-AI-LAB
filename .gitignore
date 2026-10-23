@@ -1,0 +1,3 @@
+# Local source archives and extracted reference files
+*.zip
+/tmp/

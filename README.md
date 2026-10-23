@@ -61,6 +61,12 @@ Data availability, coverage and terms of use will be checked before deciding wha
 
 The next milestone is to audit a data sample and verify that game states can be reconstructed correctly. Work will then expand to a complete pilot season and the first baseline model.
 
+## Learning roadmap
+
+The [project roadmap](ROADMAP.md) breaks the work into gradual milestones aligned with the master's curriculum, from Python and data engineering to machine learning and a public demo. Each step has concrete deliverables and completion criteria, with no fixed dates.
+
+The [master's curriculum reference](MASTER_CURRICULUM.md) keeps the course topics available alongside the roadmap.
+
 ## Beyond the first project
 
 In the longer term, NBA AI LAB could include projects on shot quality, roster analysis and tactical analysis. These are future research directions; the initial work will focus on the Win Probability Engine.
