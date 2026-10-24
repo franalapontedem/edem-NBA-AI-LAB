@@ -72,10 +72,6 @@ The longer subtitles for several soft-skills modules are truncated in the source
 
 - Documentation
 
-## International experience
-
-The section heading is visible, but its contents cannot be read completely in the screenshots.
-
 ## Connection to NBA AI LAB
 
 See the [project roadmap](ROADMAP.md) for practical milestones linked to these topics. The project is a flexible way to reinforce learning; inclusion here does not make a technology a project requirement or imply that the work satisfies an academic assessment.
